@@ -1,0 +1,18 @@
+{
+  "products": [
+    {
+      "ID": 1,
+      "name": "Air Force One",
+      "color": "red & white",
+      "inStock": true,
+      "price": 99.99
+    },
+    {
+      "ID": 2,
+      "name": "Air Force One",
+      "color": "black & white",
+      "inStock": true,
+      "price": 99.99
+    }
+  ]
+}
